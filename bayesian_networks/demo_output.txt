@@ -1,0 +1,24 @@
+============================================================
+BAYESIAN NETWORK FOR DISEASE DIAGNOSIS
+============================================================
+
+Checking Model...
+Model Valid: True
+
+Evidence Provided:
+Fever = True
+Cough = True
+Fatigue = True
+LossOfSmell = True
+
+Posterior Probability:
+
++----------+--------------+
+| COVID    |   phi(COVID) |
++==========+==============+
+| COVID(0) |      0.1656  |
++----------+--------------+
+| COVID(1) |      0.8344  |
++----------+--------------+
+
+Inference Completed Successfully
