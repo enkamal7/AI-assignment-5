@@ -1,0 +1,17 @@
+BOARD
+
+['X', 'X', ' ']
+['O', 'O', ' ']
+[' ', ' ', ' ']
+
+MINIMAX
+10
+
+ALPHA BETA
+10
+
+HEURISTIC ALPHA BETA
+10
+
+MCTS
+2
