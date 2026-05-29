@@ -1,0 +1,46 @@
+{
+  "Goa": {
+    "days": 3,
+    "budget": 15000,
+    "places": [
+      "Baga Beach",
+      "Fort Aguada",
+      "Calangute Beach"
+    ],
+    "food": [
+      "Fish Curry",
+      "Prawn Fry",
+      "Bebinca"
+    ]
+  },
+
+  "Jaipur": {
+    "days": 2,
+    "budget": 12000,
+    "places": [
+      "Amber Fort",
+      "Hawa Mahal",
+      "City Palace"
+    ],
+    "food": [
+      "Dal Baati",
+      "Ghewar"
+    ]
+  },
+
+  "Kerala": {
+    "days": 4,
+    "budget": 18000,
+    "places": [
+      "Munnar",
+      "Alleppey",
+      "Kochi",
+      "Wayanad"
+    ],
+    "food": [
+      "Appam",
+      "Puttu",
+      "Kerala Sadya"
+    ]
+  }
+}

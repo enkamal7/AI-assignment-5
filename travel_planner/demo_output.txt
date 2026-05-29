@@ -1,0 +1,25 @@
+==================================================
+AI TRAVEL PLANNER
+==================================================
+
+Enter destination (Goa/Jaipur/Kerala): Goa
+
+Destination: Goa
+Recommended Days: 3
+Estimated Budget: ₹ 15000
+
+Places to Visit:
+- Baga Beach
+- Fort Aguada
+- Calangute Beach
+
+Food Recommendations:
+- Fish Curry
+- Prawn Fry
+- Bebinca
+
+Suggested Itinerary
+
+Day 1: Visit Baga Beach
+Day 2: Visit Fort Aguada
+Day 3: Visit Calangute Beach
